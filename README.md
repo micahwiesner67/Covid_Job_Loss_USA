@@ -5,7 +5,7 @@ Analysis is still a work in progress as of June, 2020.
 
 <b>Questions:</b> 
 1. Was job loss due to Covid-19 statistically worse in one region of the country vs another?
-2. Which sector did job loss due to Covid-19 
+2. Which sector did job loss due to Covid-19 affect most?
 3. Correcting for population, were rural or urban regions hit harder economically by Covid-19?
 
 <b>Datasets:</b>
