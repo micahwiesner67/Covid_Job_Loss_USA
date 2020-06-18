@@ -16,7 +16,5 @@ https://www2.census.gov/programs-surveys/popest/datasets/2010-2018/counties/asrh
 Regression Analysis, Statistical Testing, Multiple Linear Regression 
 
 -All analysis and visualization done in R using
-*tidyverse
-*ggmap
-*usmap
+*tidyverse* *ggmap* *usmap*
 
